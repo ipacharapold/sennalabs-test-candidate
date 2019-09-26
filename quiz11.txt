@@ -1,0 +1,13 @@
+CAT  telecom  public  company  limited  provides  telecommunication,  or  any  form  of communication,  both  domestically  and  internationally.
+CAT  telecom PCL  has  been  an  internet-provider leader in Thailand that people trust in and choose CAT telecom PCL as a partner to meet
+their  business  goals.  This  leads  to  a  bigger  customer  base  that  CAT  telecom  PCL  has  been responsible for.
+What are needed for looking after the network, including service, are network status and  service  checking.
+Despite  the  increasing  of  works, number  of  employees  remain  the  same.
+Tools are needed to lighten the loads, at the same time, won't create more burden to the employees.
+The ones who are responsible for this has searched for the system or tool that could help, but it was
+expensive,  and  function  provided  are  more  than  needed.  Therefore,  the  idea  of  developing  the
+system  by  our  has  started.  It  can  check  the  internet  status,  for  example,  can  the  customers  use
+website and get the information when they visit the website? any video error? Is the
+internet speed go well? It is the system that can meet the needs of checking, looking after, and notifying errors to
+the care providers and anyone who is responsible. It also can be used with other systems and was designed to use internally only, so that
+it is easy to control, improve and develop.
